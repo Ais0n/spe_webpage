@@ -131,12 +131,8 @@ h1 em, h2 em { color: #d95d43; font-style: normal; }
 .footnote-rule { width: 28px; height: 1px; background: var(--orange); }
 .hero-visual { width: 100%; margin: 0; animation: arrive 700ms 100ms ease both; }
 .visual-frame { position: relative; padding: 11px; border: 1px solid #c5c2b8; background: #e8e5dc; box-shadow: 13px 13px 0 var(--orange); }
-.hero-stage { display: grid; grid-template-columns: minmax(0, 1fr); gap: 10px; }
 .visual-frame img, .hero-video { width: 100%; height: auto; }
 .hero-video { min-width: 0; aspect-ratio: 16 / 9; background: #101411; object-fit: cover; }
-.raw-query { display: grid; grid-template-columns: 105px 1fr; align-items: start; gap: 13px; padding: 13px 15px; border-left: 2px solid var(--orange); background: #f4f2eb; }
-.raw-query-label { margin-top: 3px; color: #b4513b; font-size: 9px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; }
-.raw-query p { margin: 0; color: #333d37; font-family: var(--display); font-size: 14px; font-weight: 500; line-height: 1.5; }
 .frame-index { position: absolute; top: 20px; left: 20px; padding: 6px 9px; background: var(--ink); color: white; font-size: 9px; font-weight: 700; letter-spacing: 1px; }
 .hero-visual figcaption, .pipeline-figure figcaption { display: flex; justify-content: space-between; gap: 16px; padding-top: 20px; color: #5d655e; font-size: 12px; }
 .caption-mark { color: #c94e35; font-size: 17px; }
