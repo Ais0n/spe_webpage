@@ -16,4 +16,4 @@ Then open <http://localhost:8000>.
 
 In the repository settings, open **Pages**, select **Deploy from a branch**, then choose `main` and the `/ (root)` folder. The site is plain HTML and CSS; no build step is required.
 
-The page bundles the method figure, compressed example videos, and video posters in `assets/`. The paper will be linked here when it is ready for release.
+The page bundles the method figure, compressed example videos, and video posters in `assets/`. The paper is available at <https://arxiv.org/abs/2609.34335>; source code is at <https://github.com/Ais0n/SkillPE>.
